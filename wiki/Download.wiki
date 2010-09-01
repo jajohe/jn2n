@@ -1,0 +1,8 @@
+=Download =
+
+== openSUSE ==
+http://jn2n.googlecode.com/svn/wiki/image/open_suse.jpg
+
+Install RPM package from repository for openSUSE 11.3
+
+  [http://software.opensuse.org/ymp/home:Grieff/openSUSE_11.3/jn2n.ymp http://jn2n.googlecode.com/svn/wiki/image/ympbutton.png]

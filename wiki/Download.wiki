@@ -5,5 +5,4 @@ Download jn2n
 http://jn2n.googlecode.com/svn/wiki/image/open_suse.jpg
 
 Install RPM package from repository for openSUSE 11.3
-
-  [http://jn2n.googlecode.com/svn/wiki/donwload/jn2n.ymp http://jn2n.googlecode.com/svn/wiki/image/ympbutton.png]
+  [http://jn2n.googlecode.com/svn/wiki/download/jn2n.ymp http://jn2n.googlecode.com/svn/wiki/image/ympbutton.png]

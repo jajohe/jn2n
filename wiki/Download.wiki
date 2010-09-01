@@ -1,5 +1,5 @@
 #labels Phase-Deploy
-=Download =
+Download jn2n
 
 == openSUSE ==
 http://jn2n.googlecode.com/svn/wiki/image/open_suse.jpg

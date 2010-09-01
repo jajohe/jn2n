@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<metapackage xmlns:os="http://opensuse.org/Standards/One_Click_Install" xmlns="http://opensuse.org/Standards/One_Click_Install">
+  <group>
+    <name>jn2n Peer-to-Peer VPN</name>
+    <summary>A simple Java desktop application providing a graphical interface for n2n.</summary>
+    <description>n2n is a layer-two peer-to-peer virtual private network (VPN) which allows users to exploit features typical of P2P applications at network instead of application level. This means that users can gain native IP visibility (e.g. two PCs belonging to the same n2n network can ping each other) and be reachable with the same network IP address regardless of the network where they currently belong. In a nutshell, as OpenVPN moved SSL from application (e.g. used to implement the https protocol) to network protocol, n2n moves P2P from application to network level.
+      
+      http://code.google.com/p/jn2n/
+      </description> 
+    <remainSubscribed>true</remainSubscribed>
+    <repositories>
+      <repository recommended="true">
+        <name>home:Grieff</name>
+        <summary>Grieff's Home Project</summary>
+        <description></description>
+        <url>http://download.opensuse.org/repositories/home:/Grieff/openSUSE_11.3/</url>
+      </repository>     
+    </repositories>
+    <software>
+      <item>
+        <name>jn2n</name>
+        <summary>GUI for n2n</summary>
+        <description>A simple Java desktop application providing a graphical interface for n2n: a Layer Two Peer-to-Peer VPN </description>
+      </item>
+      <item>
+        <name>n2n</name>
+        <summary>N2N peer-to-peer virtual private network system.</summary>
+        <description>N2N is a peer-to-peer virtual private network system. N2N uses the universal
+TUNTAP interface to create TAP network interfaces to an encrypted virtual
+LAN. Members of a community share a common encryption key which allows echange
+of data. The supernode is used for peer discovery and initial packet relay
+before direct peer-to-peer exchange is established.
+Once direct packet exchange is established, the supernode is not required.</description>
+      </item>        
+    </software>
+  </group>
+</metapackage>
